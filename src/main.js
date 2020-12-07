@@ -1,8 +1,11 @@
-import Vue from 'vue'
-import App from './App.vue'
+import Vue from 'vue';
+import App from './App.vue';
+import './assets/css/main.css';
+import VueClipboard from 'vue-clipboard2';
 
-Vue.config.productionTip = false
+Vue.use(VueClipboard);
+Vue.config.productionTip = false;
 
 new Vue({
   render: h => h(App),
-}).$mount('#app')
+}).$mount('#app');

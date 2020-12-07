@@ -1,24 +1,13 @@
-# vue-quote-machine
+# Vue Quote Machine
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[X] Install Vue Project
+[X] Directory Structure
+[X] Install & configure Tailwind CSS
+[X] Install vue-clipboard2
+[X] Import quotes.json file
+[X] Build application
+[X] Make a new quote button
+[X] Make a tweet button
+[X] Make a copy button
+[] Build project
+[] Run build project
